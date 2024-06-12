@@ -63,9 +63,9 @@ body {
   padding: 0px 10px;
 }
 
-.navbar-toggler {
+/* .navbar-toggler {
   background-color: var(--colorPrimary);
-}
+} */
 
 @media only screen and (min-width: 1000px) {
   .navbar-nav .nav-link {
@@ -114,9 +114,9 @@ body {
     position: absolute;
     bottom: 50px;
     left: 30px;
-    width: 470px;
+    width: 450px;
     padding: 10px 20px 20px;
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.4);
     box-shadow: 5px 5px 0 0 rgb(44, 61, 77, 0.7);
     -webkit-backdrop-filter: blur(4px);
     backdrop-filter: blur(4px);
@@ -141,7 +141,7 @@ body {
   } */
 
   .carousel-item {
-    margin-top: 50px;
+    margin-top: 70px;
     height: 80vh;
   }
 
@@ -240,7 +240,7 @@ background-color: #00000070;
 
 @media screen and (min-width: 1000px) {
   .wrapper {
-    width: 500px;
+    width: 520px;
     background: #fff;
     border-radius: 16px;
     padding: 30px;
