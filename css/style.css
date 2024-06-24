@@ -843,6 +843,10 @@ background-blend-mode: multiply; */
   margin-bottom: 20px;
 }
 
+.loc_map {
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
+}
 /* contact */
 
 #contact_Section {
